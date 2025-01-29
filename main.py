@@ -7,3 +7,5 @@ pole = [
 
 for bbb in pole:
     print(bbb)
+
+    pole[1][1] = 105
